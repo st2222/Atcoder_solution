@@ -8,3 +8,6 @@ for i in range(N + 1):
             print(i, j, N-i-j)
             sys.exit()
 print(-1, -1, -1)
+
+
+
